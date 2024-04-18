@@ -9,7 +9,7 @@ export default function Home() {
 <p className=" text-center my-2">Teste de responsividade</p>
 
 <div className=" flex h-full w-full justify-around items-center w-screen400:flex-col">
-<span className=" h-28 w-28 bg-red-500 rounded-md"></span>
+<span className=" h-28 w-28 bg-green-500 rounded-md"></span>
 <span className=" h-28 w-28 bg-blue-500 rounded-md h-screen400:bg-black"></span>
 <span className=" h-28 w-28 bg-yellow-500 rounded-md"></span>
 </div>

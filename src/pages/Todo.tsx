@@ -10,6 +10,9 @@ const EmptyValuesForMod ={isOpen:false,targetDel:{task:'',nanoId:''}}
 const [ModDel,setModDel] = useState<TmodalDel>(EmptyValuesForMod);
 
     
+
+    // "export": "next export",
+
 return (<div className=" text-center">
  <h3 className=" text-xl">Minhas tarefas</h3>   
 <Form ListTask={ListTask} setListTask={setListTask}/>
