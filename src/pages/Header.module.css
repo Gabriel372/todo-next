@@ -1,0 +1,12 @@
+.Header{
+background-color: black;
+color: white;
+}
+.Navbar{
+max-width: 1150px;
+height: 4rem;
+margin: auto;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
